@@ -4,6 +4,7 @@
 
 ```
 python -m venv venv
+source venv/bin/activate
 pip install mkdocs-material
 pip install mkdocs-static-i18n
 ```
