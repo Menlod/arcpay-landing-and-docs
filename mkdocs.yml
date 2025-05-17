@@ -1,0 +1,33 @@
+site_name: ArcPay
+#site_url: http://site.com/doc/quick-start
+theme:
+  name: material
+  features:
+    - content.code.copy
+  logo: ../assets/logo.png
+  favicon: ../assets/logo.png
+  language: en
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          fixed_link: /doc/
+        - locale: ru
+          name: Русский
+          build: true
+          fixed_link: /doc/ru
+  - search

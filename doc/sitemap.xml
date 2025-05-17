@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>Nonequick-start/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonequick-start/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/quick-start/"/>
+    </url>
+    <url>
+        <loc>Nonesdk-connect/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesdk-connect/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sdk-connect/"/>
+    </url>
+    <url>
+        <loc>Nonezairdrop/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonezairdrop/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/zairdrop/"/>
+    </url>
+    <url>
+        <loc>Noneznocode/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneznocode/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/znocode/"/>
+    </url>
+    <url>
+        <loc>Noneru/quick-start/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/quick-start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonequick-start/"/>
+    </url>
+    <url>
+        <loc>Noneru/sdk-connect/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/sdk-connect/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesdk-connect/"/>
+    </url>
+    <url>
+        <loc>Noneru/zairdrop/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/zairdrop/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonezairdrop/"/>
+    </url>
+    <url>
+        <loc>Noneru/znocode/</loc>
+        <lastmod>2025-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="Noneru/znocode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneznocode/"/>
+    </url>
+</urlset>
